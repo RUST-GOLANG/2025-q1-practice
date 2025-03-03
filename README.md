@@ -23,7 +23,7 @@ Containerization: Docker
 
 1. Клонирование репозитория
 
-git clone https://github.com/your-repo/warehouse-management.git
+git clone https://github.com/RUST-GOLANG/2025-q1-practice.git
 cd warehouse-management
 
 2. Настройка базы данных
